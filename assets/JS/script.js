@@ -15,7 +15,7 @@ const word6 = new Word ('gandalf', 'The name of the grey sorcerer in "Lord of th
 const word7 = new Word ('ferrari', "There is a black horse in it's logo")
 const word8 = new Word ('summer', "The season afther the spring")
 
-const wordsArray = [word1, word2, word3, word4]
+const wordsArray = [word1, word2, word3, word4, word5, word6, word7, word8]
 const displayWord = document.getElementById("word");
 
 /*pick a random word from "wordsAr ray" and return it as the word to be guessed*/
