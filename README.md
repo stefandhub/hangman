@@ -24,4 +24,4 @@ Write characters to guess the hidden word, if the word doesn't include the chose
 
 **Link to the deploy**
 -
-https://distracted-dijkstra-9ed5de.netlify.app/
+https://confident-mirzakhani-aa81eb.netlify.app/
