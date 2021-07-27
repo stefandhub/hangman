@@ -10,6 +10,10 @@ const word1 = new Word ('cat', "It's not the best friend of a dog")
 const word2 = new Word ('pizza', 'The favourite food of each Italian')
 const word3 = new Word ('javascript', 'The language that make me tilt')
 const word4 = new Word ('hangman', 'The name of this game')
+const word5 = new Word ('tokyo', 'The Location of the Olimpyc Games 2020')
+const word6 = new Word ('gandalf', 'The name of the grey sorcerer in "Lord of the rings"')
+const word7 = new Word ('ferrari', "There is a black horse in it's logo")
+const word8 = new Word ('summer', "The season afther the spring")
 
 const wordsArray = [word1, word2, word3, word4]
 const displayWord = document.getElementById("word");
